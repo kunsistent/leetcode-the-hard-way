@@ -260,7 +260,6 @@ Disjoint Set Union is a data structure that allows us to combine any two sets in
 
 Please refer the [tutorial](../tutorials/graph-theory/disjoint-set-union) guide for more details.
 
-
 <Tabs>
 <TabItem value="cpp" label="C++">
 
