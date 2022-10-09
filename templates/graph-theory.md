@@ -258,7 +258,8 @@ struct TopologicalSort {
 
 Disjoint Set Union is a data structure that allows us to combine any two sets into one.
 
-Go to [Tutorial](../tutorials/graph-theory/disjoint-set-union)
+Please refer the [tutorial](../tutorials/graph-theory/disjoint-set-union) guide for more details.
+
 
 <Tabs>
 <TabItem value="cpp" label="C++">
